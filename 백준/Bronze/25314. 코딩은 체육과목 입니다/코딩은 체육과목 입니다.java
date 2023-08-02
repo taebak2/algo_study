@@ -7,7 +7,7 @@ public class Main {
         if (num % 4 == 0) {
             for (int i = 0; i < num / 4; i++) {
 
-                System.out.print("long ");
+                 System.out.print("long ");
             }
         }
         System.out.println("int");
