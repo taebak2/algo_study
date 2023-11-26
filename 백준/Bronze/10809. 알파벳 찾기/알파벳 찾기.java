@@ -10,7 +10,7 @@ public class Main {
 				"s", "t", "u", "v", "w", "x", "y", "z" };
 		for (int i = 0; i < place.length; i++) {
 			System.out.print(word.indexOf(place[i]) + " ");
-
+ 
 		}
 
 	}
