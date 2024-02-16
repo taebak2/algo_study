@@ -11,7 +11,7 @@ public class Main {
 
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = i + 1; // 0 = 1, 1 = 2, 2= = 3...
-
+ 
 		}
 
 		for (int i = 0; i < order; i++) {
