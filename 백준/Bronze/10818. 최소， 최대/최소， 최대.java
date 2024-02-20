@@ -15,7 +15,7 @@ public class Main {
 		int max = num[0]; // 초기값을 배열의 첫 번째 요소로 설정
 
 		// 배열을 순회하면서 최소값과 최대값을 찾음
-		for (int i = 1; i < n; i++) {
+		for (int i = 1; i < n; i++) { 
 			if (num[i] < min) {
 				min = num[i];
 			}
