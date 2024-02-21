@@ -16,7 +16,7 @@ public class Main {
 		int arr[] = new int[box]; 			// 바구니 갯수 크기의 배열
 		int a = 0; 							// 교환할 바구니
 		int b = 0; 							// 교환할 바구니 2
-		int temp[] = new int[change];
+		int temp[] = new int[change]; 
 		
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = i; 					// 바구니 0 - 공 0 바구니 1 - 공 1 ...
