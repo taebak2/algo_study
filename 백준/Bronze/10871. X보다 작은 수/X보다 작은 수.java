@@ -6,7 +6,7 @@ public class Main {
 
 		Scanner s = new Scanner(System.in);
 		int N = s.nextInt();
-		int X = s.nextInt();
+		int X = s.nextInt(); 
 		int[] n = new int[N];
 
 		for (int i = 0; i < N; i++) {
