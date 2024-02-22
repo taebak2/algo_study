@@ -10,7 +10,7 @@ public class Main {
 		int basket[] = new int[s.nextInt()];    
 		int ball = s.nextInt(); 				 
 		int a = 0; 								
-		int b = 0; 								 
+		int b = 0; 								  
 		int c = 0; 								
 
 		for (int i = 0; i < ball; i++) { 		
