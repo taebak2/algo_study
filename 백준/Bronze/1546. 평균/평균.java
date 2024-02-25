@@ -8,7 +8,7 @@ public class Main {
 		Scanner s = new Scanner(System.in);
 		
 		// 시험점수 조작 문제.. ㅋ
-		// 1. 배열 선언.
+		// 1. 배열 선언. 
 		// 2. 배열에 넣을 변수 선언 ex) int a = s.nextint;
 		// 3. 배열에 a집어넣음
 		// 4. for문으로 a번 동안 각각의 숫자를 집어넣음
