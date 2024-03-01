@@ -6,7 +6,7 @@ public class Main {
         while (s.hasNextLine()){
             String str = s.nextLine();
             System.out.println(str);
-        }
+        } 
 
     }
 }
