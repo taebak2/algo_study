@@ -6,7 +6,7 @@ public class Main {
 
 		Scanner s = new Scanner(System.in);
 		int arr[] = { s.nextInt(), s.nextInt(), s.nextInt(), s.nextInt(), s.nextInt(), s.nextInt(), s.nextInt(),
-				s.nextInt(), s.nextInt() };
+				s.nextInt(), s.nextInt() }; 
 
 		int count = 0;
 		int max = 0;
