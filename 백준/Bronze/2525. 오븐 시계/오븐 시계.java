@@ -7,7 +7,7 @@ public class Main {
 		Scanner s = new Scanner(System.in);
 
 		int hour = s.nextInt(); // 0 ~ 23
-		int minute = s.nextInt(); // 0 ~ 59
+		int minute = s.nextInt(); // 0 ~ 59 
 		int time = s.nextInt(); // 0 ~ 1000 , ex 80 = 1: 20, 140 = 2: 20
 		
 		minute +=time;
