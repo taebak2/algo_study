@@ -9,7 +9,7 @@ public class Main {
 
         int H = s.nextInt(); int M = s.nextInt();
 
-        if (M < 45) {
+        if (M < 45) { 
             H -= 1; M+=15;
         } else {
             M -= 45;
