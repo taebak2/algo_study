@@ -11,7 +11,7 @@ public class Main {
 
             s.close();
 
-            System.out.println(a * (B.charAt(2)-'0'));
+            System.out.println(a * (B.charAt(2)-'0')); 
             System.out.println(a * (B.charAt(1)-'0'));
             System.out.println(a * (B.charAt(0)-'0'));
             System.out.println(a * Integer.parseInt(B));
