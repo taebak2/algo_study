@@ -10,6 +10,6 @@ public class Main {
 
 
         System.out.println(num*(num+1)/2);
-
+ 
     }
 }
