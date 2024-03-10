@@ -9,7 +9,7 @@ public class Main {
         String A = sc.next();
         int b = sc.nextInt();
 
-        System.out.println(A.charAt(b-1));
+        System.out.println(A.charAt(b-1)); 
 
     }
 
