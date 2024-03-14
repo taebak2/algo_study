@@ -9,7 +9,7 @@ public class Main {
         
         Scanner s = new Scanner(System.in);
         int num = s.nextInt();
-        int []arr = new int[num]; // 배열 지정
+        int []arr = new int[num]; // 배열 지정 
         for (int i = 0; i < num; i++) {
                 arr[i] = s.nextInt();
         }
