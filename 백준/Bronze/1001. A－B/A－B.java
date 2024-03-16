@@ -4,6 +4,6 @@ public class Main{
         Scanner s = new Scanner(System.in);
         int A = s.nextInt();
         int B = s.nextInt();
-        System.out.print(A-B);
+        System.out.print(A-B); 
     }
 }
