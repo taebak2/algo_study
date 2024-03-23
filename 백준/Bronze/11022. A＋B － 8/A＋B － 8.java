@@ -9,7 +9,7 @@ public class Main {
             int a = s.nextInt();
             int b = s.nextInt();
             String c = "Case #" + i;
-            System.out.println(c + ": " + a + " + " + b + " = " + (int) (a + b));
+            System.out.println(c + ": " + a + " + " + b + " = " + (int) (a + b)); 
         }
 
     }
