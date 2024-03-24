@@ -6,7 +6,7 @@ public class Main {
         Scanner s = new Scanner(System.in);
         while (true) {
             int A = s.nextInt();
-            int B = s.nextInt();
+            int B = s.nextInt(); 
 
 
             if (A == 0 && B == 0) {
