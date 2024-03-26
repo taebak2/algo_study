@@ -7,7 +7,7 @@ public class Main {
         int result = s.nextInt();
         for (int i = 1; i <= result; i++) {
             int a = s.nextInt();
-            int b = s.nextInt();
+            int b = s.nextInt(); 
             String c = "Case #" + i;
             System.out.println(c+ ": " + (a + b));
         }
