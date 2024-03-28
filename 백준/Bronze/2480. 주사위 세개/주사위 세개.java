@@ -10,7 +10,7 @@ public class Main {
 		int c = s.nextInt();
 
 		if (a == b && a == c) {
-			System.out.println(10000 + (a * 1000));
+			System.out.println(10000 + (a * 1000)); 
 		} else if (a == b && a != c) {
 			System.out.println(1000 + (a * 100));
 		} else if (a == c && b != c) {
