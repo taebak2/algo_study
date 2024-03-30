@@ -8,7 +8,7 @@ public class Main {
 		int A = s.nextInt();
 		int B = s.nextInt();
 
-		if (A > B) {
+		if (A > B) { 
 			System.out.println(">");
 		}
 		if (A == B) {
