@@ -9,7 +9,7 @@ public class Main {
 
         for (int i = 0; i < 28; i++) {
             int studentNumber = s.nextInt();
-            isAttended[studentNumber] = true;
+            isAttended[studentNumber] = true; 
         }
 
         for (int i = 1; i <= 30; i++) {
