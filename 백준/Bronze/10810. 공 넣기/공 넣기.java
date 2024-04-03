@@ -12,7 +12,7 @@ public class Main {
 		int a = 0; 								
 		int b = 0; 								  
 		int c = 0; 								
-
+ 
 		for (int i = 0; i < ball; i++) { 		
 			a = s.nextInt(); 					 
 			b = s.nextInt(); 					
