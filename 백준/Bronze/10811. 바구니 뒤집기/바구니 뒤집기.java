@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		Integer arr[] = new Integer[s.nextInt()];
-		int order = s.nextInt();
+		int order = s.nextInt(); 
 		int temp = 0;
 
 		for (int i = 0; i < arr.length; i++) {
