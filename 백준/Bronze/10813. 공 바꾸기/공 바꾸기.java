@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-
+ 
 	public static void main(String[] args) {
 		// 5개의 바구니에 공이 1개씩 들어있음
 		// 바구니 번호 = 공 번호 1번 바구니 = 1번 공
