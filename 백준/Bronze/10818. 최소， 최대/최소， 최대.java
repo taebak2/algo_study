@@ -8,7 +8,7 @@ public class Main {
 		int num[] = new int[n];
 
 		for (int i = 0; i < n; i++) {
-			num[i] = s.nextInt();
+			num[i] = s.nextInt(); 
 		}
 
 		int min = num[0]; // 초기값을 배열의 첫 번째 요소로 설정
