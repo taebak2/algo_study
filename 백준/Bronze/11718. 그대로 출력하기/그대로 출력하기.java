@@ -5,7 +5,7 @@ public class Main {
         Scanner s = new Scanner(System.in);
         while (s.hasNextLine()){
             String str = s.nextLine();
-            System.out.println(str);
+            System.out.println(str); 
         } 
 
     }
