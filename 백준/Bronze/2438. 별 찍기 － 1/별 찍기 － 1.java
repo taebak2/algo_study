@@ -7,7 +7,7 @@ public class Main {
         int star = s.nextInt(); // int 선언
         for (int i = 0; i < star; i++) { // 총 5줄
             for (int j = 0; j < i+1; j++) {
-                System.out.print("*"); 
+                System.out.print("*");  
             }
             System.out.println();
         }
