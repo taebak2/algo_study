@@ -8,7 +8,7 @@ public class Main {
         int sum = 0;
         for (int i = 0; i < thing; i++) {
             int a = s.nextInt();
-            int b = s.nextInt(); 
+            int b = s.nextInt();  
             sum += a * b;
         }
         if (sum == price) {
