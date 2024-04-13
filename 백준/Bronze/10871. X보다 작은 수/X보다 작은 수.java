@@ -8,7 +8,7 @@ public class Main {
 		int N = s.nextInt();
 		int X = s.nextInt(); 
 		int[] n = new int[N];
-
+ 
 		for (int i = 0; i < N; i++) {
 			n[i] = s.nextInt();
 		}
