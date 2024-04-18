@@ -8,7 +8,7 @@ public class Main {
         for (int i = 0; i < star; i++) { // 총 5줄 
             for (int j = star; j-1>i; j--) {
                 System.out.print(" ");
-            }
+            } 
             for (int j = 0; j <i+1 ; j++) {
                 System.out.print("*");
             }
